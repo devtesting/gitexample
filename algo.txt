@@ -7,7 +7,8 @@ otra vez
 
 
 y ahora? despues de stash
-sdfkfljafs
 
 modificando algo para segundo commit
+
+borrando y probando
 
