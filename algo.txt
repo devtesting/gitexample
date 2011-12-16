@@ -11,4 +11,4 @@ y ahora? despues de stash
 modificando algo para segundo commit
 
 borrando y probando
-
+linea + nueva y otra
