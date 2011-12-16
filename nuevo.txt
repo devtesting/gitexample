@@ -4,3 +4,6 @@ linea nueva
 
 linea 1
 esto va al stash
+sagdsg
+
+esto es lo nuevo de amend
