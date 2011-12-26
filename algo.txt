@@ -5,7 +5,7 @@ vamos por otro stash
 
 otra vez
 
-
+asffdsf
 y ahora? despues de stash
 
 modificando algo para segundo commit
