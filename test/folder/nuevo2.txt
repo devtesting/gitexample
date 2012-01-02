@@ -1,0 +1,15 @@
+linea 2
+linea nueva
+
+
+linea 1
+esto va al stash
+sagdsg
+
+esto es lo nuevo de amend
+
+asdgdgs
+
+asdgdg - ultgdsgdsgdsgimosfdg
+
+viendo que pasa con el otro
